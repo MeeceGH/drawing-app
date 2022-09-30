@@ -45,3 +45,6 @@ canvas {
     margin-left: auto;
 }
 
+.toolbox span {
+    cursor: context-menu;
+}
